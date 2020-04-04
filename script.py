@@ -1,8 +1,9 @@
-# -*- coding: utf-8 -*-
 """
 Spyder Editor
 
-This is a temporary script file.
+In this script the user enter a word via command prompt
+and gets its definition as an output.
+
 """
 
 import json
